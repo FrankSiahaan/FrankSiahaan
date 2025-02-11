@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying at **Del Institute of Technology**
  
- 🌱 I’m currently learning **C, Javascript, Python**
+ 🌱 I’m currently learning **C, Java, PHP**
 
 ⚡ Goals **becoming a Fullstack Developer**
 
